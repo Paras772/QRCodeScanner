@@ -1,5 +1,4 @@
 # QRCodeScanner
-I'd be glad to create a comprehensive README file for your simple QR code scanner using HTML, CSS, and JavaScript, incorporating the best aspects of previous suggestions and addressing potential shortcomings:
 
 Simple QR Code Scanner
 
@@ -13,7 +12,7 @@ Cross-Browser Compatibility: Works seamlessly across various modern browsers.
 Installation:
 
 Clone this repository:
-git clone https://github.com/your-username/simple-qr-code-scanner.git
+git clone https://github.com/Paras772/QRCodeScanner.git/
 
 
 Usage:
